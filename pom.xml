@@ -4,7 +4,7 @@
   <groupId>com.kumar.app</groupId>
   <artifactId>kumar-app</artifactId>
   <packaging>jar</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>release-2-SNAPSHOT</version>
   <name>kumar-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
